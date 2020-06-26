@@ -1,0 +1,25 @@
+{
+  "name": "feminist-bot",
+  "version": "1.0.0",
+  "description": "Twitter bot!",
+  "main": "bot.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "twit": "^2.2.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GenyLeong/feminist-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "hhttps://github.com/GenyLeong/feminist-bot/issues"
+  },
+  "homepage": "hhttps://github.com/GenyLeong/feminist-bot#readme"
+}
